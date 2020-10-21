@@ -1,0 +1,15 @@
+.menuBar {
+    display: flex;
+    flex-direction: row;
+    background-color: #fafafa;
+    height: 4rem;
+    justify-content: space-around;
+
+    div {
+        width: 25%;
+        font-size: xx-large;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+}
